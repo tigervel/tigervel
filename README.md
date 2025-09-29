@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 저는 [주덕호] 입니다!
+# 👋 안녕하세요, 저는 [JudeokHo] 입니다!
 
 
 ### 🔧 Tech Stack
@@ -44,20 +44,25 @@
 ## ⭐ Featured Projects
 - **물류 매칭 플랫폼**  
   화물 견적, 기사 매칭, 실시간 경로 시뮬레이션까지 구현한 풀스택 프로젝트  
-  - 역할: 백엔드 매칭 로직, 프론트엔드 견적 작성 UI 개발  
-  - 기술: Kakao Map API, JWT 인증, React + Flutter Hybrid  
-
-- **Project B**  
-  프로젝트 간단 설명...  
-  - 역할: ...  
-  - 기술: ...
+  - 역할: 메인페이지,견적서작성,주문서작성,매칭,결제 담당
+		-메인페이지 →간편 견적조회, 최근 공지사항 표출
+		-견적작성 → Kakao Map API 활용 예상경로 조회
+		-매칭 시스템 → 작성 견적 입찰
+		-주문서 작성 → 입찰 견적서 상세 주문서 작성
+		-결제 → PortOne API이용으로 결제모듈화로 결제 코드량 감소
+		-KakaoMap 모듈화로 재사용 가능
+		-주소 검색 API 모듈화로 각 컴포넌트 재사용성 증가
+  - 기술: PortOne API,Kakao Map API, JWT 인증, React + Flutter Hybrid , Spring boot
 
 ---
 
+## 📜 Achievements
+- 🏅 정보처리기사 1차 합격(2025)
+- 🌐 풀스택 웹 서비스 배포 경험 (2025)
+
 ## 📫 Contact
-- ✉️ Email: your_email@example.com  
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)  
-- 📌 GitHub: [yourusername](https://github.com/yourusername)  
+- ✉️ Email: pkn4693@naver.com
+- 📌 GitHub: [JudeokHo](https://github.com/tigervel)  
 
 ---
 
